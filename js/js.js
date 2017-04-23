@@ -25,7 +25,7 @@ $(document).ready(function() {
 	        },
 	        300:{
 	            items:2,
-	            nav:true
+	            nav:false
 	        },
 	        600:{
 	            items:3,
